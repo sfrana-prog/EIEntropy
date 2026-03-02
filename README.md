@@ -13,4 +13,4 @@ No compilation required
 
  **Keywords**
 
-Entropy · Info-metrics · Small Area Estimation · Ecological Inference · R package
+Entropy · Info-metrics · Small Area Estimation ·  R package
